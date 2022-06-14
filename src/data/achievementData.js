@@ -3,27 +3,27 @@ export const achievementData = {
     achievements : [
         {
             id : 1,
-            title : 'Google Cloud certification',
-            details : 'Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'
+            title : 'Building Applications with React and Redux',
+            details : 'Building Applications with React and Redux was about learning how to integrate the advance redux in react applications. This was offered by Pluralsight.com',
+            date : 'April, 2022',
+            field : 'Web-development',
+            image : 'https://waftengine.org/public/blog/1B5EE4D5D773F8A-RR.jpg'
         },
         {
             id : 2,
-            title : 'AWS Certification',
-            details : 'Validate technical skills and cloud expertise to grow your career and business.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+            title : 'Building Web Applications with Node.js and Express',
+            details : 'This Certification was about how to create a back-end in expresss js. This was offered by Plrualsight.com',
+            date : 'April, 2022',
+            field : 'Web-development',
+            image : 'https://peerbits-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/node-js-main.jpg'
         },
         {
             id : 3,
-            title : 'Professional Data Engineer Certification',
-            details : 'Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+            title : 'graphQL Scalable APIs',
+            details : 'This certification was about the core introduction to using graphQL to create scalable apis.',
+            date : 'Aprl, 2022',
+            field : 'Web-development',
+            image : 'https://graphql.org/img/og-image.png'
         }
 
     ]

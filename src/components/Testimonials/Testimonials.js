@@ -38,9 +38,11 @@ function Testimonials() {
         sliderRef.current.slickPrev();
     };
 
-    return (
-        <>
-            {testimonialsData.length > 0 && (
+    return <div>
+        
+    </div>
+        
+            {/* {testimonialsData.length > 0 && (
                 <div
                     className='testimonials'
                     style={{ backgroundColor: theme.primary }}
@@ -116,8 +118,9 @@ function Testimonials() {
                     </div>
                 </div>
             )}
-        </>
-    );
+        </> */}
+        
+
 }
 
 export default Testimonials;

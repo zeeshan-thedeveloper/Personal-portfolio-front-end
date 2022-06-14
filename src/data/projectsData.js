@@ -10,41 +10,42 @@ import eight from '../assets/svg/projects/eight.svg'
 
 export const projectsData = [
     {
+        id: 4,
+        projectName: 'Fiver-clone website',
+        projectDesc: 'This application has front, which looks same as fiver, and admin portal where you can maange the orders, transactions,reviews, and all things which you need to run a fiver like plateform',
+        tags: ['React Js', 'Express Js',"Redux","Material-ui"],
+        code: 'https://github.com/zeeshan-thedeveloper/Fiver-clone',
+        demo: 'https://fiverclone.netlify.app/',
+        image: four
+    },
+    {
+        id: 2,
+        projectName: 'Icons-hub (Web-site)',
+        projectDesc: 'This is next js based website where you can customize the svg icons and download them. This project contains the admin dashboard',
+        tags: ['Next Js', 'Tailwind CSS','Express',"MongoDb"],
+        code: 'https://github.com/zeeshan-thedeveloper/Icons-hub',
+        demo: 'https://icon-hub.netlify.app/',
+        image: two
+    },
+    {
+        id: 3,
+        projectName: 'Local database hosting (Web-site)',
+        projectDesc: 'This a web+desktop app based took which allow developers to use their local resoures as online hosted freely',
+        tags: ['Next Js', 'Express', 'MongoDb'],
+        code: 'https://github.com/Local-Database-Hosting-Platefrom',
+        demo: 'https://central-api-layer.vercel.app/',
+        image: three
+    },
+    {
+     
         id: 1,
         projectName: 'Chairity distribution app',
         projectDesc: "Its an mobile application aimed to solve the problem of transparency of transactions for donators and distributor organizations",
         tags: ['Block-chain', 'Web3.0','Flutter'],
         code: 'https://github.com/zeeshan-thedeveloper/Charity-Distribution-App-Block-chain-based-',
         // demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: one
+        image: one  
     },
-    // {
-    //     id: 2,
-    //     projectName: 'Local database hosting',
-    //     projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-    //     tags: ['Django', 'Tailwind CSS'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: two
-    // },
-    // {
-    //     id: 3,
-    //     projectName: 'Weather App',
-    //     projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-    //     tags: ['Django', 'CSS', 'Material Ui'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: three
-    // },
-    // {
-    //     id: 4,
-    //     projectName: 'Android Patient Tracker',
-    //     projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-    //     tags: ['Flutter', 'Firebase'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: four
-    // },
     // {
     //     id: 5,
     //     projectName: 'E-Commerce App',

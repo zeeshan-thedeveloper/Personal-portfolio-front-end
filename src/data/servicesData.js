@@ -14,65 +14,41 @@ export const servicesData = [
     // },
     {
         id: 2,
-        title: 'Web 3.0',
+        title: 'Web 3.0 development',
         icon: <BiPencil /> 
     },
     {
         id: 3,
-        title: 'Email Marketing',
+        title: 'MERN stack development',
         icon: <AiOutlineMail />
     },
-    // {
-    //     id: 4,
-    //     title: 'Internet Research',
-    //     icon: <FaInternetExplorer />
-    // },
-    // {
-    //     id: 5,
-    //     title: 'Tutoring',
-    //     icon: <FaChalkboardTeacher />
-    // },
+    {
+        id: 4,
+        title: 'Desktop application development',
+        icon: <FaInternetExplorer />
+    },
+    {
+        id: 5,
+        title: 'Mobile app developement',
+        icon: <FaChalkboardTeacher />
+    },
 
     {
         id: 6,
-        title: 'Web Design',
+        title: 'Database designing',
         icon: <BsCodeSlash />
     },
     {
         id: 7,
-        title: 'Photography',
+        title: 'Firebase intergration',
         icon: <FaCameraRetro />
     },
-    // {
-    //     id: 8,
-    //     title: 'Pinterest Virtual Assistant',
-    //     icon: <FaPinterest />
-    // }, 
     {
-        id: 9,
-        title: 'Video Editing',
-        icon: <FaVideo />
-    },
-    // {
-    //     id: 10,
-    //     title: 'Data Entry', 
-    //     icon: <BsClipboardData />
-    // },
-    {
-        id: 11,
-        title: 'Ebook Writing',
-        icon: <FaTabletAlt />
-    },
-    // {
-    //     id: 12,
-    //     title: 'Audio Transcription',
-    //     icon: <AiFillAudio />
-    // },
-    {
-        id: 13,
-        title: 'Blog Posting',
-        icon: <FaRegNewspaper />
-    },
+        id: 8,
+        title: 'API documentation using SWAGER',
+        icon: <FaPinterest />
+    }, 
+    
 
 ]
 
